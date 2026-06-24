@@ -7,13 +7,23 @@ This repository contains my hands-on practice, exercises, and learning materials
 ```text
 Dot-net-hands-on
 │
-└── DeepSkilling
-    └── Advanced SQL
-        └── Stored Procedures
-            ├── README.md
-            ├── Ex.1.docx
-            ├── Ex.5.docx
-            └── Addition_Hands_On(Ex.4).docx
+├── DeepSkilling
+│   │
+│   ├── Advanced SQL
+│   │   │
+│   │   ├── Stored Procedures
+│   │   │   ├── README.md
+│   │   │   ├── Ex.1.docx
+│   │   │   ├── Ex.5.docx
+│   │   │   └── ...
+│   │   │
+│   │   └── Advanced Concepts
+│   │       │
+│   │       ├── Window Functions
+│   │       │   ├── README.md
+│   │       │   ├── Ex.1.docx
+│   │       
+ 
 ```
 
 
