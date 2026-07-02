@@ -25,7 +25,6 @@ Dot-net-hands-on
 │   ├── Engineering Concepts
 │   │   │
 │   │   ├── DSA
-│   │   │   │
 │   │   │   ├── E-commerce.docx
 │   │   │   └── Forecasting Future Value.docx
 │   │   │
@@ -36,11 +35,15 @@ Dot-net-hands-on
 │   │
 │   ├── Entity Framework
 │   │   ├── README.md
-│   │   ├── Lab 1 
-│   │   ├── Lab 2
-│   │   ├── Lab 3 
-│   │   ├── Lab 4 
-│   │   └── Lab 5 
+│   │   ├── Lab 1.docx
+│   │   ├── Lab 2.docx
+│   │   ├── Lab 3.docx
+│   │   ├── Lab 4.docx
+│   │   └── Lab 5.docx
+│   │
+│   ├── NUnit & Moq
+│   │   ├── README.md
+│   │   ├── Moq.docx
 │   
 └── README.md
 ```
