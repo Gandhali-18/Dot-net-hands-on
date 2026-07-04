@@ -1,8 +1,8 @@
 # Dot-net-hands-on
 
-This repository contains my hands-on practice, exercises, and learning materials for .NET, SQL Server, and related technologies.
+This repository contains my hands-on practice, exercises, and learning materials for .NET, SQL Server, ASP.NET Web API, Entity Framework, NUnit, Moq, and related technologies.
 
-##  Repository Structure
+## Repository Structure
 
 ```text
 Dot-net-hands-on
@@ -41,10 +41,18 @@ Dot-net-hands-on
 │   │   ├── Lab 4.docx
 │   │   └── Lab 5.docx
 │   │
+│   ├── ASP.NET Web API
+│   │   ├── README.md
+│   │   ├── Assignment 1 
+│   │   ├── Assignment 2 
+│   │   ├── Assignment 3 
+│   │   ├── Assignment 4 
+│   │   └── Assignment 5 
+│   │
 │   ├── NUnit & Moq
 │   │   ├── README.md
-│   │   ├── Moq.docx
-│   
+│   │   └── Moq.docx
+│
 └── README.md
 ```
 
