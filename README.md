@@ -72,6 +72,14 @@ Dot-net-hands-on
 │   │   └── ReactJS - 12.docx
 │   │   └── ReactJS - 13.docx
 │   │
+│   ├── Angular
+│   │   ├── README.md
+│   │   └── Angular - 01.docx
+│   │   └── Angular - 02.docx
+│   │   └── Angular - 03.docx
+│   │   └── Angular - 04.docx
+│   │   └── Angular - 05.docx
+│   │
 └── README.md
 ```
 
