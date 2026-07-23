@@ -81,6 +81,7 @@ Dot-net-hands-on
 │   │   └── Angular - 05.docx
 │   │   └── Angular - 06.docx
 │   │   └── Angular - 07.docx
+│   │   └── Angular - 08.docx
 │   │
 └── README.md
 ```
