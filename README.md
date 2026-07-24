@@ -85,6 +85,12 @@ Dot-net-hands-on
 │   │   └── Angular - 09.docx
 │   │   └── Angular - 10.docx
 │   │
+│   ├── Git
+│   │   ├── README.md
+│   │   └── Git - 01.docx
+│   │   └── Git - 02.docx
+│   │   └── Git - 03.docx
+│   │   └── Git - 04.docx
 └── README.md
 ```
 
